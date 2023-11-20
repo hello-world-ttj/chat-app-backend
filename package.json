@@ -20,10 +20,14 @@
   },
   "homepage": "https://github.com/hello-world-ttj/chat-app-backend#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.1",
     "nodemon": "^3.0.1"
   }
